@@ -1,0 +1,5 @@
+rustc --version
+cargo --version
+rustdoc --version
+cargo new --bin hello
+https://www.rust-lang.org/learn
